@@ -1,3 +1,4 @@
+<img width="3808" height="2140" alt="image" src="https://github.com/user-attachments/assets/203f6d48-fad1-4b2e-8a92-d69bf9184105" />
 # Alzheimer's Multiclass Classification using VGG16
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
@@ -48,9 +49,9 @@ The model achieves high accuracy in distinguishing between the four classes. Bel
 **Sample Predictions:**
 The green text indicates a correct prediction where the `Predicted` label matches the `Actual` label.
 
-![Model Prediction Results](PASTE_YOUR_IMAGE_LINK_HERE)
+![Model Prediction Results](<img width="3808" height="2140" alt="image" src="https://github.com/user-attachments/assets/c880ec0c-f49f-4a0c-8087-56a7f0748763" />
+)
 
-*(Note: Drag and drop your image here in the GitHub editor to generate the link)*
 
 ---
 
