@@ -48,8 +48,8 @@ The model achieves high accuracy in distinguishing between the four classes. Bel
 **Sample Predictions:**
 The green text indicates a correct prediction where the `Predicted` label matches the `Actual` label.
 
-![Model Prediction Results](<img width="3808" height="2140" alt="image" src="https://github.com/user-attachments/assets/203f6d48-fad1-4b2e-8a92-d69bf9184105" />
-)
+<img width="3808" height="2140" alt="image" src="https://github.com/user-attachments/assets/203f6d48-fad1-4b2e-8a92-d69bf9184105" />
+
 
 
 ---
