@@ -24,7 +24,7 @@ You can run the training notebook and view the analysis directly in your browser
 
 | Platform | Link |
 | :--- | :--- |
-| **Google Colab** | [**Click here to open the Notebook**]([https://drive.google.com/file/d/1ioNGO6ffP547x1rHVcVb2Aaj_IAjav60/view?usp=sharing](https://colab.research.google.com/drive/1ASE79Zfn-26ihwp4ARdsWXwpHuRUx6mI?usp=sharing)) |
+| **Google Colab** | [**Click here to open the Notebook**](https://colab.research.google.com/drive/1ASE79Zfn-26ihwp4ARdsWXwpHuRUx6mI?usp=sharing) 
 
 ---
 
